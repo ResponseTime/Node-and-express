@@ -1,0 +1,1 @@
+hello world this is demo.txt this is appended to demo.txt batmanTHis is appended to the end of the fileThis is appended to the end of the fileThis is appended to the end of the fileThis is appended to the end of the filehello wroldhello wroldhello wroldhello wrold hello wrold

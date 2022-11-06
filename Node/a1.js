@@ -1,0 +1,5 @@
+const ns = require('./a2')
+console.log(__dirname)
+console.log(__filename)
+console.log(ns.n1)
+console.log(ns.n2)
