@@ -41,4 +41,9 @@ let data = [
     }
 ]
 
-module.exports = data
+let people = [
+    {id:2,name:'aaysh'},
+    {id:24,name:'nana'},
+    {id:5,name:'verg'}
+]
+module.exports = {data,people}
